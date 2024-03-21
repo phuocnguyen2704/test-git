@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout << " noi dung a C2 cap nhat master D1 ";
+    cout << " noi dung a C2 cap nhat master D2 ";
 }
